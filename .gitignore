@@ -12,3 +12,8 @@
 logs
 target
 test-output
+
+# IntelliJ
+*.iml
+.idea/
+
